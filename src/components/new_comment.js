@@ -6,7 +6,7 @@ export default class NewComment extends Component {
     return (
       <div>
         <form>
-          <input type="text" placeholder="My 2 Cents" />
+          <input type="text" placeholder="Comment" />
           <input type="submit" value="Post" />
         </form>
       </div>
